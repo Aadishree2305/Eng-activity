@@ -1,0 +1,25 @@
+.header{
+    background-color:#008cff;
+    color:#102436;
+    display:flex;
+    justify-content: space-evenly;
+    justify-self: center;
+    margin-right: 20px;
+    align-content: center;
+    
+    display:flex;
+    flex-wrap:wrap;
+}
+
+/*{
+    border:solid;
+}*/
+
+.menu{
+    background-color:#008cff;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    align-content: center;
+
+}
